@@ -1,0 +1,53 @@
+{
+  "name": "Jogo da Velha Pro",
+  "short_name": "Velha Pro",
+  "description": "Jogo da Velha Pro com temas visuais Cyberpunk, Lousa de Giz e 8-Bit Arcade, IA Minimax e modo com timer.",
+  "start_url": "/app/velha/",
+  "scope": "/app/velha/",
+  "display": "standalone",
+  "background_color": "#0f0a1e",
+  "theme_color": "#0f0a1e",
+  "orientation": "portrait",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
